@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SocialTech</string>
+    <string name="nombre">Quizás quisiste decir: Selección formación</string>
+    <string name="apellido">Last Name</string>
+    <string name="telefono">Select training</string>
+    <string name="email">Email</string>
+    <string name="agenda">"Tech Contacts "</string>
+    <string name="formacion">Select training</string>
+    <string name="botoninsertar">Add Contact</string>
+    <string name="elementos">" contacts"</string>
+</resources>

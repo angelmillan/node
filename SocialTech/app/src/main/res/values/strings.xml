@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SocialTech</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellidos</string>
+    <string name="telefono">Teléfono</string>
+    <string name="email">Email</string>
+    <string name="agenda">Contactos Técnicos </string>
+    <string name="formacion">Seleccione Formación</string>
+    <string name="botoninsertar">Añadir Contacto</string>
+    <string name="elementos"> contactos</string>
+    <string-array name="formacion">
+        <item>SMR</item>
+        <item>DAM</item>
+        <item>DAW</item>
+        <item>ASIR</item>
+        <item>Ingeniería técnica Informática</item>
+        <item>Ingeniería Informática</item>
+        <item>Grado</item>
+        <item>Otros</item>
+    </string-array>
+
+
+</resources>

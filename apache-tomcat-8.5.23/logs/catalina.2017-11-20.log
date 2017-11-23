@@ -1,0 +1,53 @@
+20-Nov-2017 13:05:52.090 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.23
+20-Nov-2017 13:05:52.092 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 28 2017 10:30:11 UTC
+20-Nov-2017 13:05:52.092 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.23.0
+20-Nov-2017 13:05:52.092 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+20-Nov-2017 13:05:52.092 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            4.4.0-21-generic
+20-Nov-2017 13:05:52.092 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+20-Nov-2017 13:05:52.092 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /home/matinal/jdk1.8.0_111/jre
+20-Nov-2017 13:05:52.092 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_111-b14
+20-Nov-2017 13:05:52.092 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+20-Nov-2017 13:05:52.093 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/matinal/AMM/apache-tomcat-8.5.23
+20-Nov-2017 13:05:52.093 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/matinal/AMM/apache-tomcat-8.5.23
+20-Nov-2017 13:05:52.093 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/matinal/AMM/apache-tomcat-8.5.23/conf/logging.properties
+20-Nov-2017 13:05:52.093 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+20-Nov-2017 13:05:52.093 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|matinal
+20-Nov-2017 13:05:52.093 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+20-Nov-2017 13:05:52.093 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+20-Nov-2017 13:05:52.093 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/matinal/AMM/apache-tomcat-8.5.23
+20-Nov-2017 13:05:52.093 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/matinal/AMM/apache-tomcat-8.5.23
+20-Nov-2017 13:05:52.093 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/matinal/AMM/apache-tomcat-8.5.23/temp
+20-Nov-2017 13:05:52.093 INFORMACIÓN [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent La biblioteca nativa de Apache Tomcat basada en ARP que permite un rendimiento óptimo en entornos de desarrollo no ha sido hallada en java.library.path: [/home/matinal/jdk1.8.0_111/jre/lib/amd64:/home/matinal/jdk1.8.0_111/jre/lib/i386::/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib]
+20-Nov-2017 13:05:52.557 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+20-Nov-2017 13:05:52.858 INFORMACIÓN [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+20-Nov-2017 13:05:52.873 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+20-Nov-2017 13:05:52.874 INFORMACIÓN [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+20-Nov-2017 13:05:52.874 INFORMACIÓN [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1809 ms
+20-Nov-2017 13:05:53.228 INFORMACIÓN [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio [Catalina]
+20-Nov-2017 13:05:53.228 INFORMACIÓN [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.23
+20-Nov-2017 13:05:53.283 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [/home/matinal/AMM/apache-tomcat-8.5.23/conf/Catalina/localhost/GestionAcademica.xml]
+20-Nov-2017 13:05:54.682 INFORMACIÓN [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+20-Nov-2017 13:05:54.766 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [/home/matinal/AMM/apache-tomcat-8.5.23/conf/Catalina/localhost/GestionAcademica.xml] has finished in [1.482] ms
+20-Nov-2017 13:05:54.767 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Despliegue del directorio [/home/matinal/AMM/apache-tomcat-8.5.23/webapps/host-manager] de la aplicación web
+20-Nov-2017 13:05:54.868 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/matinal/AMM/apache-tomcat-8.5.23/webapps/host-manager] has finished in [101] ms
+20-Nov-2017 13:05:54.868 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Despliegue del directorio [/home/matinal/AMM/apache-tomcat-8.5.23/webapps/examples] de la aplicación web
+20-Nov-2017 13:05:55.296 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/matinal/AMM/apache-tomcat-8.5.23/webapps/examples] has finished in [428] ms
+20-Nov-2017 13:05:55.297 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Despliegue del directorio [/home/matinal/AMM/apache-tomcat-8.5.23/webapps/ROOT] de la aplicación web
+20-Nov-2017 13:05:55.334 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/matinal/AMM/apache-tomcat-8.5.23/webapps/ROOT] has finished in [37] ms
+20-Nov-2017 13:05:55.337 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Despliegue del directorio [/home/matinal/AMM/apache-tomcat-8.5.23/webapps/docs] de la aplicación web
+20-Nov-2017 13:05:55.369 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/matinal/AMM/apache-tomcat-8.5.23/webapps/docs] has finished in [35] ms
+20-Nov-2017 13:05:55.369 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Despliegue del directorio [/home/matinal/AMM/apache-tomcat-8.5.23/webapps/manager] de la aplicación web
+20-Nov-2017 13:05:55.413 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/matinal/AMM/apache-tomcat-8.5.23/webapps/manager] has finished in [43] ms
+20-Nov-2017 13:05:55.417 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+20-Nov-2017 13:05:55.426 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+20-Nov-2017 13:05:55.429 INFORMACIÓN [main] org.apache.catalina.startup.Catalina.start Server startup in 2554 ms
+20-Nov-2017 13:05:59.591 INFORMACIÓN [http-nio-8080-exec-1] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/GestionAcademica]
+20-Nov-2017 13:05:59.897 INFORMACIÓN [http-nio-8080-exec-1] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+20-Nov-2017 13:46:25.613 INFORMACIÓN [main] org.apache.catalina.core.StandardServer.await Se ha recibido un comando de apagado a través del puerto de apagado. Parando la instancia del Servidor.
+20-Nov-2017 13:46:25.613 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+20-Nov-2017 13:46:25.665 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+20-Nov-2017 13:46:25.716 INFORMACIÓN [main] org.apache.catalina.core.StandardService.stopInternal Parando servicio [Catalina]
+20-Nov-2017 13:46:25.764 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+20-Nov-2017 13:46:25.765 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+20-Nov-2017 13:46:25.766 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+20-Nov-2017 13:46:25.767 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
